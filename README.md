@@ -1,4 +1,4 @@
-##  Olá!👋 Seja bem vindo(a) ao meu GitHub. 
+##  Olá! Eu sou o Guilherme Kameoka👋
 - 🎓 Cursando Sistemas de Informação na Universidade Federal de Uberlândia.
 - 📫 Contato: guilherme.kameoka@outlook.com
 

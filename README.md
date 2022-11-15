@@ -1,6 +1,4 @@
-##  Olá! Eu sou o Guilherme Kameoka👋
-- 🎓 Cursando Sistemas de Informação na Universidade Federal de Uberlândia.
-- 📫 Contato: guilherme.kameoka@outlook.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6400B7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Guilherme+Kameoka;Seja+bem+vindo(a);:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/guilhermekameoka">

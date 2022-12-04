@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekameoka&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=guilhermekameoka&bg_color=0d1117&color=856683&line=845881&point=562e5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+*/[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=guilhermekameoka&bg_color=0d1117&color=856683&line=845881&point=562e5c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)*/
 
 <div align="center"; style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">

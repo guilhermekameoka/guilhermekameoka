@@ -30,8 +30,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermekameoka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="170" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_color=21262D" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermekameoka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&border_color=21262D" height="170" alt="languages graph"/>
 </div>
 
 <br clear="both">

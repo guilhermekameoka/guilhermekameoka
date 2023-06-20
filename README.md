@@ -5,7 +5,7 @@
 
 
 <!-- mensagem boas-vindas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B8EDA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World+!👋+Sou+o+Guilherme+Kameoka;Sejam+bem+vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B8EDA&size=38&center=true&vCenter=true&width=1000&lines=Hello+World+!👋+Sou+o+Guilherme+Kameoka;Sejam+bem+vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <br clear="both">
 

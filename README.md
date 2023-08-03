@@ -17,7 +17,7 @@
 <p>
   🎓 Cursando Sistemas de Informação (UFU)<br>
   📚 Atualmente estou no programa de bolsas da UOL Compass<br>
-  💻 Desenvolvedor backend em Machine Learning com ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  💻 Desenvolvedor backend em Machine Learning com AWS
 </p>
 </div>
 

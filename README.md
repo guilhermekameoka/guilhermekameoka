@@ -17,7 +17,7 @@
 <p>
   🎓 Cursando Sistemas de Informação (UFU)<br>
   📚 Atualmente estou no programa de bolsas da UOL Compass<br>
-  💻 Desenvolvedor backend em Machine Learning com AWS
+  💻 Machine Learning | AWS
 </p>
 </div>
 

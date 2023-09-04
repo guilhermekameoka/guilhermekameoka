@@ -21,6 +21,9 @@
 </p>
 </div>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <br clear="both">
 
 

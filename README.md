@@ -16,7 +16,7 @@
   
 <p>
   🎓 Cursando Sistemas de Informação (UFU)<br>
-  💻 Backend | AWS Certified Cloud Practitioner | CLF-C01
+  💻 Backend | AWS Certified Cloud Practitioner (CLF-C01)
 </p>
 </div>
 

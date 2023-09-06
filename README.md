@@ -16,8 +16,7 @@
   
 <p>
   🎓 Cursando Sistemas de Informação (UFU)<br>
-  📚 Atualmente estou no programa de bolsas da UOL Compass<br>
-  💻 Machine Learning | AWS
+  💻 Backend | AWS Certified Cloud Practitioner | CLF-C01
 </p>
 </div>
 

@@ -115,4 +115,4 @@
 <br clear="both">
  
 <!-- footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=356194&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=356194&height=120&section=footer"/> -->

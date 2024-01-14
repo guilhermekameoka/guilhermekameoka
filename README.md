@@ -24,7 +24,7 @@
 <p></p>
 
 <a href="https://www.credly.com/badges/be5f81b9-98db-4fd6-a034-b57a81815f07/public_url">
-<img src="https://camo.githubusercontent.com/33b5a3198538289f8daafacb148e99726b81c87f63116518bc4b1d6c267ad59c/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313330783133302f696d616765732f30303633346638322d623037662d346262642d613662622d3533646533393766633361362f696d6167652e706e67" alt="AWS Certified Cloud Practitioner" data-canonical-src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="max-width: 100%;">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 180px;">
 </a>
 
 </p>

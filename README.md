@@ -18,8 +18,8 @@
 <h1>👨‍💻 Sobre mim:</h1>
   
 <p>
-  🎓 Cursando Sistemas de Informação (UFU)<br>
-   ☁  AWS Certified Cloud Practitioner (CLF-C01)<br>
+  🎓 Sistemas de Informação - UFU<br>
+   ☁ Amazon Certified Cloud Practitioner (CLF-C01)<br>
   💻 Backend Developer | NodeJS | Python | AWS <br>
 <p></p>
 

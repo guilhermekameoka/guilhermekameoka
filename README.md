@@ -90,6 +90,7 @@
 
 
 <!-- contato -->
+<!--
 <h1 align="left">📫 Contato:</h1>
 
 <br clear="both">
@@ -113,6 +114,7 @@
 </div>
 
 <br clear="both">
+-->
 
 
 <!-- snake -->

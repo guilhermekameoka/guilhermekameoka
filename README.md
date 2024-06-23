@@ -18,9 +18,8 @@
 <h1>👨‍💻 Sobre mim:</h1>
   
 <p>
-  🎓 Sistemas de Informação - UFU<br>
    ☁ AWS Certified Cloud Practitioner (CLF-C01)<br>
-  💻 Javascript | NodeJS | PHP | Python | AWS <br>
+  💻 AWS | Javascript | NodeJs | Python <br>
 <p></p>
 
 <a href="https://www.credly.com/badges/be5f81b9-98db-4fd6-a034-b57a81815f07/public_url">

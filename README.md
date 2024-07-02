@@ -34,20 +34,6 @@
 
 <br clear="both">
 
-
-<!-- stats GitHub -->
-<h1 align="left">📊 GitHub stats:</h1>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_color=21262D" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermekameoka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&border_color=21262D" height="170" alt="languages graph"/>
-</div>
-
-<br clear="both">
-
-
 <!-- tecnologias -->
 <h1 align="left">⚙️ My stack:</h1>
 
@@ -80,6 +66,16 @@
 <br clear="both">
 
 
+
+<!-- stats GitHub -->
+<h1 align="left">📊 GitHub stats:</h1>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_color=21262D" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermekameoka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&border_color=21262D" height="170" alt="languages graph"/>
+</div>
+
+
 <!-- contato -->
 <!--
 <h1 align="left">📫 Contato:</h1>
@@ -109,13 +105,11 @@
 
 
 <!-- snake -->
-<br clear="both">
 <div align="center">
   
 ![snake svg](https://github.com/guilhermekameoka/guilhermekameoka/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 </div>
 
-<br clear="both">
  
 <!-- footer -->
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=356194&height=120&section=footer"/> -->

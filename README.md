@@ -15,11 +15,13 @@
 
 <!-- sobre mim -->
 <div align="left">
-<h1>👨‍💻 Sobre mim:</h1>
+<h1>👨‍💻 About me:</h1>
   
 <p>
-   ☁ AWS Certified Cloud Practitioner (CLF-C01)<br>
+  📚 Currently studying how to develop discord bots with discord.js <br>
+  🛠️ Frontend & Backend developer <br>
   💻 AWS | Javascript | NodeJs | Python <br>
+  ☁️ 1x AWS Certified <br>
 <p></p>
 
 <a href="https://www.credly.com/badges/be5f81b9-98db-4fd6-a034-b57a81815f07/public_url">
@@ -34,7 +36,7 @@
 
 
 <!-- stats GitHub -->
-<h1 align="left">📊 Meus stats do GitHub:</h1>
+<h1 align="left">📊 GitHub stats:</h1>
 
 <br clear="both">
 
@@ -47,7 +49,7 @@
 
 
 <!-- tecnologias -->
-<h1 align="left">🔧 Tecnologias mais usadas:</h1>
+<h1 align="left">⚙️ My stack:</h1>
 
 <br clear="both">
 
@@ -62,11 +64,9 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"/>
   <img width="12"/>

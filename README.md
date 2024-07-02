@@ -18,7 +18,7 @@
 <h1>👨‍💻 About me:</h1>
   
 <p>
-  📚 Currently studying how to develop discord bots with discord.js <br>
+  📚 Currently studying how to develop Discord bots using Typescript and discord.js <br>
   🛠️ Frontend & Backend developer <br>
   💻 AWS | Javascript | NodeJs | Python <br>
   ☁️ 1x AWS Certified <br>

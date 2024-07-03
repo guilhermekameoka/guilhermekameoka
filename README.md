@@ -12,10 +12,14 @@
 
 -->
 
-
 <!-- sobre mim -->
 <div align="left">
 <h1>👨‍💻 About me:</h1>
+
+<a href="https://linkedin.com/in/guilherme-kameoka">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://wa.me/5534999811850">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="https://discordapp.com/users/198945182220025856">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
   
 <p>
   📚 Currently studying how to develop Discord bots using Typescript and discord.js <br>

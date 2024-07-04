@@ -3,9 +3,6 @@
 
 <br clear="both">
 
-
-
-  mensagem boas-vindas
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B8EDA&size=38&center=true&vCenter=true&width=1000&lines=Hello+World+!👋+Sou+o+Guilherme+Kameoka;Sejam+bem+vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <br clear="both">
@@ -20,13 +17,14 @@
 <a href="https://wa.me/5534999811850">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="https://discordapp.com/users/198945182220025856">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
-  
+
 <p>
-  📚 Currently studying Discord bot development using TypeScript and Discord.js <br>
-  🛠️ Frontend & Backend developer <br>
+  🎓Universidade Federal de Uberlândia <br>
+  🛠️ Software Developer <br>
   💻 AWS | Javascript | NodeJs | Python <br>
-  ☁️ 1x AWS Certified <br>
-<p></p>
+  ☁️ AWS Certified <br>
+  📚 Currently studying Discord bot development using TypeScript and Discord.js <br>
+  <br clear="both">
 
 <a href="https://www.credly.com/badges/be5f81b9-98db-4fd6-a034-b57a81815f07/public_url">
 <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 150px;">
@@ -34,9 +32,6 @@
 
 </p>
 </div>
-
-
-<br clear="both">
 
 <!-- tecnologias -->
 <h1 align="left">⚙️ My stack:</h1>
@@ -71,16 +66,14 @@
 
 <br clear="both">
 
-
-
 <!-- stats GitHub -->
 <h1 align="left">📊 GitHub stats:</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_color=21262D" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_color=21262D" height="170" alt="stats graph"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermekameoka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&border_color=21262D" height="170" alt="languages graph"/>
 </div>
-
 
 <!-- contato -->
 <!--
@@ -92,7 +85,7 @@
    <a href="https://www.instagram.com/guilhermekameoka/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/guilherme-kameoka/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -100,7 +93,7 @@
   <a href="mailto:guilhermekameoka.dev@gmail.com" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  
+
   <a href="mailto:guilherme.kameoka@outlook.com" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
@@ -109,13 +102,11 @@
 <br clear="both">
 -->
 
-
 <!-- snake -->
 <div align="center">
   
 ![snake svg](https://github.com/guilhermekameoka/guilhermekameoka/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 </div>
 
- 
 <!-- footer -->
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=356194&height=120&section=footer"/> -->

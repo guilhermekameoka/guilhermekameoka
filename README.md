@@ -7,7 +7,7 @@
 <a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=round&logo=microsoft-outlook&logoColor=white)</a>
 
 <!-- About me-->
-  🎓Universidade Federal de Uberlândia <br>
+  🎓 Universidade Federal de Uberlândia <br>
   🛠️ Software Developer <br>
   ☁️ AWS Certified <br>
   📚 Currently studying Discord bot development using TypeScript and Discord.js <br>

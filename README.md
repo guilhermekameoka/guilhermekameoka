@@ -13,10 +13,33 @@
 <div align="left">
 <h1>👨‍💻 About me:</h1>
 
-<a href="https://linkedin.com/in/guilherme-kameoka">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://wa.me/5534999811850">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href="https://discordapp.com/users/198945182220025856">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+<a href="https://linkedin.com/in/guilherme-kameoka">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=round&logo=linkedin&logoColor=white)</a>
+<a href="https://wa.me/5534999811850">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=round&logo=whatsapp&logoColor=white)</a>
+<a href="https://discordapp.com/users/198945182220025856">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=round&logo=discord&logoColor=white)</a>
+<a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=round&logo=microsoft-outlook&logoColor=white)</a>
+<br>
+
+<!--
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=round&logo=amazonaws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=round&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=round&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=round&logo=jquery&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=round&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=round)
+![Python](https://img.shields.io/badge/Python-3776AB?style=round&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=round&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=round&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=round&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=round&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=round&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=round&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=round&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=round&logo=php&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=round&logo=terraform&logoColor=white)
+-->
 
 <p>
   🎓Universidade Federal de Uberlândia <br>

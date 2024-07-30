@@ -3,6 +3,7 @@
 <!-- Contact -->
 <a href="https://linkedin.com/in/guilherme-kameoka">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=round&logo=linkedin&logoColor=white)</a>
 <a href="https://wa.me/5534999811850">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=round&logo=whatsapp&logoColor=white)</a>
+<a href="https://t.me/+5534999811850">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=round&logo=telegram&logoColor=white)</a>
 <a href="https://discordapp.com/users/198945182220025856">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=round&logo=discord&logoColor=white)</a>
 <a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=round&logo=microsoft-outlook&logoColor=white)</a>
 
@@ -43,11 +44,14 @@
 <!-- Database -->
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=round&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=round&logo=postgresql&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=round&logo=Amazon%20DynamoDB&logoColor=white)
 <p></p>
 
 <!-- DevOps -->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=round&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=round&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=round&logo=terraform&logoColor=white)
+
 <p></p>
 
 <!-- Cloud -->

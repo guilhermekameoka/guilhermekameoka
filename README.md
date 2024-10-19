@@ -18,6 +18,11 @@
 <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" style="width: 140px;">
 </a>
 
+<!-- Scrum Foundation Professional Badge -->
+<a href="https://www.credly.com/badges/4352b7bd-927d-4b93-a5c9-c4b06fda3758/public_url">
+<img src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob" alt="Scrum Foundation Professional" style="width: 140px;">
+</a>
+
 # ⚙️ My stack:
 
 <div align="center">

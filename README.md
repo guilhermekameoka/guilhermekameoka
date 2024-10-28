@@ -9,7 +9,7 @@
 
 <!-- About me-->
   🎓 Universidade Federal de Uberlândia <br>
-  🛠️ Software Developer <br>
+  🛠️ Serverless Cloud Applications Developer <br>
   ☁️ AWS Certified <br>
   📚 Currently studying Discord bot development using TypeScript and Discord.js <br>
 

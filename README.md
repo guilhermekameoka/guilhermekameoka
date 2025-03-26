@@ -8,10 +8,11 @@
 <a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=round&logo=microsoft-outlook&logoColor=white)</a>
 
 <!-- About me-->
-  🎓 Universidade Federal de Uberlândia <br>
+  🎓 Universidade Federal de Uberlândia (UFU)<br>
+  📘 7th semester of Bachelor’s in Information Systems <br>
+  📚  Currently working on my graduation thesis <br>
   🛠️ Serverless Cloud Applications Developer <br>
   ☁️ AWS Certified <br>
-  📚 Currently studying Discord bot development using TypeScript and Discord.js <br>
 
 <!-- AWS Badge -->
 <a href="https://www.credly.com/badges/be5f81b9-98db-4fd6-a034-b57a81815f07/public_url">

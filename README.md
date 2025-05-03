@@ -9,7 +9,7 @@
 
 <!-- About me-->
   🎓 Universidade Federal de Uberlândia (UFU)<br>
-  📘 7th semester of Bachelor’s in Information Systems <br>
+  📘 8th semester of Bachelor’s in Information Systems <br>
   📚  Currently working on my graduation thesis <br>
   🛠️ Serverless Cloud Applications Developer <br>
   ☁️ AWS Certified <br>

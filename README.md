@@ -50,19 +50,18 @@
 <!-- Database -->
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=round&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=round&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=round&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=round&logo=Amazon%20DynamoDB&logoColor=white)
 <p></p>
 
 <!-- DevOps -->
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=round&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=round&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=round&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=round&logo=terraform&logoColor=white)
-
 <p></p>
 
-<!-- Cloud -->
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=round&logo=amazonaws&logoColor=white)
-<p></p>
+
 
 </div>
 

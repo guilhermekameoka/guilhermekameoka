@@ -8,9 +8,8 @@
 <a href="mailto:guilherme.kameoka@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=round&logo=microsoft-outlook&logoColor=white)</a>
 
 <!-- About me-->
+  📘 Bachelor’s in Information Systems <br>
   🎓 Universidade Federal de Uberlândia (UFU)<br>
-  📘 8th semester of Bachelor’s in Information Systems <br>
-  📚  Currently working on my graduation thesis <br>
   🛠️ Serverless Cloud Applications Developer <br>
   ☁️ AWS Certified <br>
 

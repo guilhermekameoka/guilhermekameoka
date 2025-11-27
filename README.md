@@ -31,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=round&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=round&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=round&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=round&logo=jquery&logoColor=white)
@@ -44,6 +45,7 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=round)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=round&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=round&logo=flask&logoColor=white)
+
 <p></p>
 
 <!-- Database -->
@@ -57,7 +59,10 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=round&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=round&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=round&logo=git&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=round&logo=serverless&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=round&logo=terraform&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=round&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=round&logo=swagger&logoColor=white)
 <p></p>
 
 

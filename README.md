@@ -73,9 +73,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermekameoka&hide_title=true&&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&border_color=21262D" height="170" alt="stats graph"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermekameoka&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&border_color=21262D&hide=html,css,hack" height="170" alt="languages graph"/>
+![](https://raw.githubusercontent.com/guilhermekameoka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/guilhermekameoka/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
   
 </div>
 

@@ -16,10 +16,7 @@
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=round&logo=serverless&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=round&logo=terraform&logoColor=white)
 
-
-
 <!-- snake -->
-  
 ![snake svg](https://github.com/guilhermekameoka/guilhermekameoka/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>

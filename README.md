@@ -4,8 +4,10 @@
 ![](https://raw.githubusercontent.com/guilhermekameoka/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=round&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=round&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=round&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=round&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=round&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=round&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=round&logo=mysql&logoColor=white)
